@@ -1,10 +1,10 @@
 # Color-Detection
 
-## * **Color Detection in Real-time using Python-Opencv**
+## **Color Detection in Real-time using Python-Opencv**
 This project can automatically get the name of the color by taking the object to the center of the webcam.
 
 
-## * **Color Detection using Deep Learning (ResNet500)**
+## **Color Detection using Deep Learning (ResNet50)**
 ResNet-50 is CNN architecture that belongs to the ResNet (Residual Networks) family, a series of models designed to address the challenges associated with training deep neural networks. 
 
 
